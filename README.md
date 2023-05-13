@@ -36,7 +36,7 @@ Responsibilities and achievements:
 - AWS (DynamoDB,Redshift,Glue,Lambda,Secret Manager,S3,Elasticache,CloudWatch,StepFunctions,API Gateway,EC2, IAM)
 - TDD
 - Unit testing
-- 
+
 I'm passionate about data and the insights that can be derived from it. Always eager to learn more and improve my skills.
 
 Feel free to check out my repositories and don't hesitate to get in touch if you have any questions or just want to chat!
