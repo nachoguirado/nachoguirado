@@ -1,11 +1,11 @@
 ### Hello, I'm Nacho Guirado! 👋
 
-I'm a Data Engineer currently working at [Hiberus Tecnologías Diferenciales S.L.](https://www.hiberus.com), based in Valencia, Spain.
+I'm a Data Engineer currently working at [Hiberus Tecnología](https://www.hiberus.com), based in Valencia, Spain.
 
 ## 👨‍💻 Professional Experience
 
 **Data Engineer**  
-Hiberus Tecnologías Diferenciales 
+Hiberus Tecnología 
 March 2023 – Present  
 
 Responsibilities and achievements:
@@ -14,7 +14,7 @@ Responsibilities and achievements:
 - Provided support in DynamoDB-oriented database design.
 
 **Junior Data Engineer**  
-Hiberus Tecnologías Diferenciales S.L.  
+Hiberus Tecnología
 June 2022 – March 2023  
 
 Responsibilities and achievements:
